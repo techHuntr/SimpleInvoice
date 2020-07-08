@@ -1,0 +1,6 @@
+module Pods_SimpleInvoice {
+  umbrella header "Pods-SimpleInvoice-umbrella.h"
+
+  export *
+  module * { export * }
+}
